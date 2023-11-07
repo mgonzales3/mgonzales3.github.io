@@ -9,7 +9,7 @@
 
 # mgonzales.github.io
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_Collablorate + Agile + POC + Implement + Unit Test _
 
 </header>
 
