@@ -11,7 +11,7 @@
 
 </header>
 
-##### _Collablorate + Agile + POC + Implement + Unit Test_
+_Collablorate + Agile + POC + Implement + Unit Test_
 
 ## Welcome
 
