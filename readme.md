@@ -17,8 +17,9 @@
 
 I have been developing software for over 20yrs for companies of all sizes.  I can pickup an existing project and support or enhance your current project.  Whether its a CMS like Sitecore or Episerver or just an older site that needs a digital transformation or even if its a command-line app - we can make it work.  Every line of code and docs are sent to your github or bitbucket repo.  Do you need a Azure or AWS support?  
 
-
-
+- [angular and web api](https://github.com/mgonzales3/WebApiCoreAngular4)
+- [angular and swapi](https://stackblitz.com/edit/ng-swapi-dev)
+- More on request
 
 
 
