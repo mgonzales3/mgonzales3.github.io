@@ -9,11 +9,9 @@
 
 # mgonzales.github.io
 
-Collablorate + Agile + POC + Implement + Unit Test
-
 </header>
 
-
+##### Collablorate + Agile + POC + Implement + Unit Test
 
 ## Welcome
 
