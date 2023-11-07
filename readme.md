@@ -9,7 +9,7 @@
 
 # mgonzales.github.io
 
-_Collablorate + Agile + POC + Implement + Unit Test _
+Collablorate + Agile + POC + Implement + Unit Test
 
 </header>
 
