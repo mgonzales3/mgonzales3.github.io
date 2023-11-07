@@ -13,9 +13,10 @@
 
 _Collablorate + Agile + POC + Implement + Unit Test_
 
-## Welcome
+# Fullstack Developer |  Software Engineer                      
 
-GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
+I have been developing software for over 20yrs for companies of all sizes.  I can pickup an existing project and support or enhance your current project.  Whether its a CMS like Sitecore or Episerver or just an older site that needs a digital transformation or even if its a command-line app - we can make it work.  Every line of code and docs are sent to your github or bitbucket repo.  Do you need a Azure or AWS support? Only 20-25hrs max per week.  
+
 
 
 
